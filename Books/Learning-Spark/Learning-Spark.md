@@ -4,11 +4,12 @@
 <ol>
 <li>Introduction to Data Analysis with Spark</li>
 <ul>
-<li>What is Spark</li>
-<li>A unified stack</li>
-<li>Who uses Spark and for What</li>
-<li>History of Spark</li>
-<li>Storage Layer of Spark</li>
+<li>2.1 What is Spark</li>
+<li>2.2 A unified stack</li>
+<li>2.3 Spark Architecture</li>
+<li>2.4 Who uses Spark and for What</li>
+<li>2.5 History of Spark</li>
+<li>2.6 Storage Layer of Spark</li>
 </ul>
 
 <li>Downloading Spark and Getting Started.</li>
